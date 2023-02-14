@@ -1,6 +1,6 @@
-# Library-management
-This is a local server project to run this we have to change path in python files with our local paths in our system. 
-#how to run
+# How to run
+ 
+
 Step 1 : Install idle 3.8.6 web installed 64 bit for all users while installing. 
 Step 2 : Install xampp add python on apache config files.
 Step 3 : Install pymysql using pip in cmd. 
